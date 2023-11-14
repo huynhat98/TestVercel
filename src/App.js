@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Test Vercel</h1>
+        <h1>Test Vercel 2</h1>
       </header>
     </div>
   );
