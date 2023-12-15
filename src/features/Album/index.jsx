@@ -21,8 +21,8 @@ function AlbumFeature(props) {
     {
       id: 3,
       name: "Ái",
-      thumbnailUrl:
-        "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/0/1/3/7/0137422e6a4e4f375c058c4d260db396.jpg",
+      thumbnailUrl: 
+      "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/0/1/3/7/0137422e6a4e4f375c058c4d260db396.jpg",
     },
   ];
 
